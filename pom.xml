@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>jogo_adivinha</artifactId>
+=======
+    <artifactId>jogo_adivinhacao</artifactId>
+>>>>>>> 83b320eb0e616e21a145abdf44a5dbb132f89563
     <version>1.0-SNAPSHOT</version>
 
     <properties>
